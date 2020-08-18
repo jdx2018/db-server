@@ -1,6 +1,6 @@
 {
   "name": "db-socket-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A server sides for access db, Based on socket.io.",
   "main": "index.js",
   "scripts": {
