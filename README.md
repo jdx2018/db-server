@@ -1,4 +1,4 @@
-# db-socket-client
+# db-socket-server
 
 [![npm version](https://img.shields.io/npm/v/db-socket-server.svg?style=flat-square)](https://www.npmjs.org/package/db-socket-client)
 
