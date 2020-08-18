@@ -1,5 +1,5 @@
 {
-  "name": "db-server",
+  "name": "db-socket-server",
   "version": "1.0.0",
   "description": "A server sides for access db, Based on socket.io.",
   "main": "index.js",
