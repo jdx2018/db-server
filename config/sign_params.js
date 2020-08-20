@@ -1,5 +1,5 @@
 module.exports = {
-  key: "", // required
-  iv: "", // required
-  salt: "", // required
+  key: "supoin.iot@sz209",
+  iv: "iot.supoin#Sz802",
+  salt: "supoin@ms.bank",
 };

@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jdx2018/db-server.git"
+    "url": "git+ssh://git@github.com/jdx2018/db-socket-server.git"
   },
   "author": "lxs33",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jdx2018/db-server/issues"
+    "url": "https://github.com/jdx2018/db-socket-server/issues"
   },
-  "homepage": "https://github.com/jdx2018/db-server#readme",
+  "homepage": "https://github.com/jdx2018/db-socket-server#readme",
   "dependencies": {
     "crypto": "^1.0.1",
     "http": "^0.0.1-security",

@@ -1,8 +1,8 @@
 module.exports = {
-  host: "", // required
-  user: "", // required
-  password: "", // required
-  port: "", // required
-  database: "", // required
+  host: "47.106.103.128",
+  user: "supoin",
+  password: "SupoinSz2020@",
+  port: "3306",
+  database: "cmbc",
   connectionLimit: 10,
 };
