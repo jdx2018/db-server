@@ -1,6 +1,6 @@
 # db-socket-server
 
-[![npm version](https://img.shields.io/npm/v/db-socket-server.svg?style=flat-square)](https://www.npmjs.org/package/db-socket-client)
+[![npm version](https://img.shields.io/npm/v/db-socket-server.svg?style=flat-square)](https://www.npmjs.org/package/db-socket-server)
 
 A server sides for access db, Based on socket.io.
 
@@ -24,15 +24,15 @@ Using yarn:
 $ yarn add db-socket-server
 ```
 
-## API
+## How to use
 
 ```js
-// import main object
-import dbClient from "db-socket-server";
 ```
 
+node index.js
+
 ```
-// To use it, You need consummate some config info in config folder
+// Before to use it, You need consummate some config info in config folder
 ├── db.js
 ├── server.js
 ├── sign_params.js
